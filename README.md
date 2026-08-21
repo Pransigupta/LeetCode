@@ -23,6 +23,7 @@
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/Pransigupta/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0496-next-greater-element-i](https://github.com/Pransigupta/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Pransigupta/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0877-stone-game](https://github.com/Pransigupta/LeetCode/tree/master/0877-stone-game) |
@@ -60,4 +61,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Pransigupta/LeetCode/tree/master/0002-add-two-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/Pransigupta/LeetCode/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
