@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Pransigupta/LeetCode/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/Pransigupta/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Pransigupta/LeetCode/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/Pransigupta/LeetCode/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Pransigupta/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Pransigupta/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0066-plus-one](https://github.com/Pransigupta/LeetCode/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/Pransigupta/LeetCode/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Pransigupta/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Pransigupta/LeetCode/tree/master/0503-next-greater-element-ii) |
