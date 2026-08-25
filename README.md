@@ -35,6 +35,7 @@
 | [0503-next-greater-element-ii](https://github.com/Pransigupta/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0877-stone-game](https://github.com/Pransigupta/LeetCode/tree/master/0877-stone-game) |
 | [1480-running-sum-of-1d-array](https://github.com/Pransigupta/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Pransigupta/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Minimax
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 | ------- |
 | [0229-majority-element-ii](https://github.com/Pransigupta/LeetCode/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/Pransigupta/LeetCode/tree/master/0496-next-greater-element-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Pransigupta/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Stack
 |  |
 | ------- |
