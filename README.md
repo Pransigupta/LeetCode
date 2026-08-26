@@ -6,6 +6,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pransigupta/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Pransigupta/LeetCode/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/Pransigupta/LeetCode/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Pransigupta/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Pransigupta/LeetCode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/Pransigupta/LeetCode/tree/master/0496-next-greater-element-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Pransigupta/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Stack
@@ -109,6 +111,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Pransigupta/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Pransigupta/LeetCode/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
