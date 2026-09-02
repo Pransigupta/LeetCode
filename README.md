@@ -41,6 +41,7 @@
 | [0496-next-greater-element-i](https://github.com/Pransigupta/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Pransigupta/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0877-stone-game](https://github.com/Pransigupta/LeetCode/tree/master/0877-stone-game) |
+| [0977-squares-of-a-sorted-array](https://github.com/Pransigupta/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Pransigupta/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Pransigupta/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Pransigupta/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -99,6 +100,7 @@
 | [0016-3sum-closest](https://github.com/Pransigupta/LeetCode/tree/master/0016-3sum-closest) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pransigupta/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0283-move-zeroes](https://github.com/Pransigupta/LeetCode/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/Pransigupta/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Enumeration
 |  |
 | ------- |
@@ -127,6 +129,7 @@
 | [0016-3sum-closest](https://github.com/Pransigupta/LeetCode/tree/master/0016-3sum-closest) |
 | [0229-majority-element-ii](https://github.com/Pransigupta/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Pransigupta/LeetCode/tree/master/0242-valid-anagram) |
+| [0977-squares-of-a-sorted-array](https://github.com/Pransigupta/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
 |  |
 | ------- |
