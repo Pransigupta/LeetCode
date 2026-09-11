@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Pransigupta/LeetCode/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/Pransigupta/LeetCode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Pransigupta/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Pransigupta/LeetCode/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/Pransigupta/LeetCode/tree/master/0877-stone-game) |
@@ -153,6 +154,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Pransigupta/LeetCode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/Pransigupta/LeetCode/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/Pransigupta/LeetCode/tree/master/0187-repeated-dna-sequences) |
 ## Sliding Window
