@@ -10,6 +10,7 @@
 | [0187-repeated-dna-sequences](https://github.com/Pransigupta/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Pransigupta/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Pransigupta/LeetCode/tree/master/0383-ransom-note) |
+| [0884-uncommon-words-from-two-sentences](https://github.com/Pransigupta/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 ## Math
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 | [0242-valid-anagram](https://github.com/Pransigupta/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Pransigupta/LeetCode/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/Pransigupta/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0884-uncommon-words-from-two-sentences](https://github.com/Pransigupta/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Pransigupta/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Pransigupta/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Stack
@@ -143,6 +145,7 @@
 | ------- |
 | [0229-majority-element-ii](https://github.com/Pransigupta/LeetCode/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/Pransigupta/LeetCode/tree/master/0383-ransom-note) |
+| [0884-uncommon-words-from-two-sentences](https://github.com/Pransigupta/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
