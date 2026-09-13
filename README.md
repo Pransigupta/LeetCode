@@ -9,6 +9,7 @@
 | [0058-length-of-last-word](https://github.com/Pransigupta/LeetCode/tree/master/0058-length-of-last-word) |
 | [0187-repeated-dna-sequences](https://github.com/Pransigupta/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Pransigupta/LeetCode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Pransigupta/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Pransigupta/LeetCode/tree/master/0383-ransom-note) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Pransigupta/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 ## Math
@@ -71,6 +72,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Pransigupta/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Pransigupta/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Pransigupta/LeetCode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Pransigupta/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Pransigupta/LeetCode/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/Pransigupta/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Pransigupta/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
