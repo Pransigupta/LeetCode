@@ -47,6 +47,7 @@
 | [0283-move-zeroes](https://github.com/Pransigupta/LeetCode/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Pransigupta/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Pransigupta/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Pransigupta/LeetCode/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/Pransigupta/LeetCode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pransigupta/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Pransigupta/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -86,11 +87,13 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Pransigupta/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Pransigupta/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Pransigupta/LeetCode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Pransigupta/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Pransigupta/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Pransigupta/LeetCode/tree/master/0739-daily-temperatures) |
 ## Linked List
 |  |
 | ------- |
