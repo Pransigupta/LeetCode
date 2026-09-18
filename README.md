@@ -13,6 +13,7 @@
 | [0242-valid-anagram](https://github.com/Pransigupta/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Pransigupta/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Pransigupta/LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Pransigupta/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Pransigupta/LeetCode/tree/master/0389-find-the-difference) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Pransigupta/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 ## Math
@@ -85,6 +86,7 @@
 | [0290-word-pattern](https://github.com/Pransigupta/LeetCode/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pransigupta/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Pransigupta/LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Pransigupta/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Pransigupta/LeetCode/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/Pransigupta/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Pransigupta/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -164,6 +166,7 @@
 | ------- |
 | [0229-majority-element-ii](https://github.com/Pransigupta/LeetCode/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/Pransigupta/LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Pransigupta/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Pransigupta/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -207,6 +210,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Pransigupta/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/Pransigupta/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
