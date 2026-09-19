@@ -52,6 +52,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pransigupta/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/Pransigupta/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Pransigupta/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0575-distribute-candies](https://github.com/Pransigupta/LeetCode/tree/master/0575-distribute-candies) |
 | [0739-daily-temperatures](https://github.com/Pransigupta/LeetCode/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/Pransigupta/LeetCode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pransigupta/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -89,6 +90,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Pransigupta/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Pransigupta/LeetCode/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/Pransigupta/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0575-distribute-candies](https://github.com/Pransigupta/LeetCode/tree/master/0575-distribute-candies) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Pransigupta/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Pransigupta/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Pransigupta/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
