@@ -33,6 +33,7 @@
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Pransigupta/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Pransigupta/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3959-check-good-integer](https://github.com/Pransigupta/LeetCode/tree/master/3959-check-good-integer) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/Pransigupta/LeetCode/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -224,6 +225,7 @@
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Pransigupta/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/Pransigupta/LeetCode/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Queue
 |  |
 | ------- |
