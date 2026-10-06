@@ -152,6 +152,7 @@
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Pransigupta/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Pransigupta/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3827-count-monobit-integers](https://github.com/Pransigupta/LeetCode/tree/master/3827-count-monobit-integers) |
 ## String Matching
 |  |
 | ------- |
@@ -204,6 +205,7 @@
 | [0136-single-number](https://github.com/Pransigupta/LeetCode/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/Pransigupta/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0389-find-the-difference](https://github.com/Pransigupta/LeetCode/tree/master/0389-find-the-difference) |
+| [3827-count-monobit-integers](https://github.com/Pransigupta/LeetCode/tree/master/3827-count-monobit-integers) |
 ## Sliding Window
 |  |
 | ------- |
