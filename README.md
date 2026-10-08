@@ -9,6 +9,7 @@
 | [0020-valid-parentheses](https://github.com/Pransigupta/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pransigupta/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Pransigupta/LeetCode/tree/master/0058-length-of-last-word) |
+| [0171-excel-sheet-column-number](https://github.com/Pransigupta/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0187-repeated-dna-sequences](https://github.com/Pransigupta/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Pransigupta/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Pransigupta/LeetCode/tree/master/0242-valid-anagram) |
@@ -25,6 +26,7 @@
 | [0029-divide-two-integers](https://github.com/Pransigupta/LeetCode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Pransigupta/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Pransigupta/LeetCode/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/Pransigupta/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0371-sum-of-two-integers](https://github.com/Pransigupta/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0877-stone-game](https://github.com/Pransigupta/LeetCode/tree/master/0877-stone-game) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Pransigupta/LeetCode/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
