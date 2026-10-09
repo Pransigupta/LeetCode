@@ -72,6 +72,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/Pransigupta/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Pransigupta/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Pransigupta/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Pransigupta/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Pransigupta/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Pransigupta/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Pransigupta/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -109,6 +110,7 @@
 | [0575-distribute-candies](https://github.com/Pransigupta/LeetCode/tree/master/0575-distribute-candies) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Pransigupta/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Pransigupta/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Pransigupta/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Pransigupta/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Pransigupta/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Stack
@@ -183,6 +185,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pransigupta/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Pransigupta/LeetCode/tree/master/0389-find-the-difference) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pransigupta/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Pransigupta/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 ## Counting
 |  |
 | ------- |
@@ -191,6 +194,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Pransigupta/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Pransigupta/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Pransigupta/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Pransigupta/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
