@@ -78,6 +78,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Pransigupta/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Pransigupta/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Pransigupta/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Pransigupta/LeetCode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Minimax
 |  |
 | ------- |
@@ -152,6 +153,7 @@
 | [0283-move-zeroes](https://github.com/Pransigupta/LeetCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pransigupta/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pransigupta/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Pransigupta/LeetCode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Enumeration
 |  |
 | ------- |
