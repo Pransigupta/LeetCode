@@ -73,6 +73,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Pransigupta/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Pransigupta/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Pransigupta/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Pransigupta/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Pransigupta/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Pransigupta/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Pransigupta/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -157,6 +158,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Pransigupta/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Pransigupta/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Pransigupta/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3827-count-monobit-integers](https://github.com/Pransigupta/LeetCode/tree/master/3827-count-monobit-integers) |
