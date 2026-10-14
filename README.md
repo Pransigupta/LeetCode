@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Pransigupta/LeetCode/tree/master/0070-climbing-stairs) |
+| [0494-target-sum](https://github.com/Pransigupta/LeetCode/tree/master/0494-target-sum) |
 | [0877-stone-game](https://github.com/Pransigupta/LeetCode/tree/master/0877-stone-game) |
 ## Memoization
 |  |
@@ -64,6 +65,7 @@
 | [0283-move-zeroes](https://github.com/Pransigupta/LeetCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pransigupta/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pransigupta/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0494-target-sum](https://github.com/Pransigupta/LeetCode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Pransigupta/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Pransigupta/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0575-distribute-candies](https://github.com/Pransigupta/LeetCode/tree/master/0575-distribute-candies) |
@@ -143,6 +145,7 @@
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Pransigupta/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0494-target-sum](https://github.com/Pransigupta/LeetCode/tree/master/0494-target-sum) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -277,4 +280,12 @@
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/Pransigupta/LeetCode/tree/master/0183-customers-who-never-order) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Pransigupta/LeetCode/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Pransigupta/LeetCode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
