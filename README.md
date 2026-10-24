@@ -285,6 +285,7 @@
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/Pransigupta/LeetCode/tree/master/0183-customers-who-never-order) |
+| [0511-game-play-analysis-i](https://github.com/Pransigupta/LeetCode/tree/master/0511-game-play-analysis-i) |
 ## Knapsack Problem
 |  |
 | ------- |
