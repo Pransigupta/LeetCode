@@ -58,6 +58,7 @@
 | [0066-plus-one](https://github.com/Pransigupta/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Pransigupta/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Pransigupta/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pransigupta/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/Pransigupta/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Pransigupta/LeetCode/tree/master/0136-single-number) |
 | [0219-contains-duplicate-ii](https://github.com/Pransigupta/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -319,6 +320,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Pransigupta/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Pransigupta/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pransigupta/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pransigupta/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Pransigupta/LeetCode/tree/master/0404-sum-of-left-leaves) |
 ## Breadth-First Search
 |  |
@@ -332,6 +334,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Pransigupta/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Pransigupta/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pransigupta/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pransigupta/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Pransigupta/LeetCode/tree/master/0404-sum-of-left-leaves) |
 ## Depth-First Search
 |  |
@@ -339,4 +342,12 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Pransigupta/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pransigupta/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Pransigupta/LeetCode/tree/master/0404-sum-of-left-leaves) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pransigupta/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pransigupta/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
