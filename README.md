@@ -77,6 +77,7 @@
 | [0739-daily-temperatures](https://github.com/Pransigupta/LeetCode/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/Pransigupta/LeetCode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pransigupta/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Pransigupta/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Pransigupta/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Pransigupta/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Pransigupta/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -169,6 +170,7 @@
 | [0283-move-zeroes](https://github.com/Pransigupta/LeetCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pransigupta/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pransigupta/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Pransigupta/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Pransigupta/LeetCode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Enumeration
 |  |
@@ -206,6 +208,7 @@
 | [0389-find-the-difference](https://github.com/Pransigupta/LeetCode/tree/master/0389-find-the-difference) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Pransigupta/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pransigupta/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Pransigupta/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Pransigupta/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 ## Counting
 |  |
@@ -280,6 +283,7 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pransigupta/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Pransigupta/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Union-Find
 |  |
 | ------- |
