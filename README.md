@@ -18,6 +18,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Pransigupta/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Pransigupta/LeetCode/tree/master/0389-find-the-difference) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Pransigupta/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Pransigupta/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Pransigupta/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Math
 |  |
@@ -228,6 +229,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Pransigupta/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Pransigupta/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Pransigupta/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3959-check-good-integer](https://github.com/Pransigupta/LeetCode/tree/master/3959-check-good-integer) |
