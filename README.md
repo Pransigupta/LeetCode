@@ -55,6 +55,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pransigupta/LeetCode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Pransigupta/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Pransigupta/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/Pransigupta/LeetCode/tree/master/0016-3sum-closest) |
 | [0040-combination-sum-ii](https://github.com/Pransigupta/LeetCode/tree/master/0040-combination-sum-ii) |
@@ -289,6 +290,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Pransigupta/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pransigupta/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Pransigupta/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Union-Find
@@ -361,6 +363,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Pransigupta/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pransigupta/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Search Tree
 |  |
