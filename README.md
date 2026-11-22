@@ -18,6 +18,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Pransigupta/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Pransigupta/LeetCode/tree/master/0389-find-the-difference) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Pransigupta/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Pransigupta/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Pransigupta/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Pransigupta/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Math
