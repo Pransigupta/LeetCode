@@ -36,6 +36,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Pransigupta/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2235-add-two-integers](https://github.com/Pransigupta/LeetCode/tree/master/2235-add-two-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Pransigupta/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/Pransigupta/LeetCode/tree/master/3360-stone-removal-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Pransigupta/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Pransigupta/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Pransigupta/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -235,6 +236,7 @@
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Pransigupta/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Pransigupta/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/Pransigupta/LeetCode/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Pransigupta/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3959-check-good-integer](https://github.com/Pransigupta/LeetCode/tree/master/3959-check-good-integer) |
 ## Bit Manipulation
